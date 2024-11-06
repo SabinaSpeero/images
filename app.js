@@ -1,1 +1,1 @@
-<img src="https://cdn.jsdelivr.net/gh/SabinaSpeero/images@SPE021/t-mobile.png" width="117" alt="T Mobile logo" />;
+var arr = [3630184, 3290531, 3737930];
