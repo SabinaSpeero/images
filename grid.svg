@@ -1,0 +1,96 @@
+<svg width="823" height="580" viewBox="0 0 823 580" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g opacity="0.5">
+<mask id="mask0_13_33" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-50" width="887" height="782">
+<rect x="0.352661" y="-50" width="886.625" height="781.172" fill="url(#pattern0_13_33)"/>
+</mask>
+<g mask="url(#mask0_13_33)">
+<rect x="1.88977" y="-49.3518" width="877.573" height="778.978" fill="url(#paint0_radial_13_33)"/>
+</g>
+</g>
+<g clip-path="url(#clip0_13_33)">
+<mask id="mask1_13_33" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="188" y="77" width="266" height="174">
+<path d="M214.49 77.8323V250.74" stroke="black" stroke-width="0.535391"/>
+<path d="M240.967 77.8323V250.74" stroke="black" stroke-width="0.535391"/>
+<path d="M267.445 77.8322V250.74" stroke="black" stroke-width="0.535391"/>
+<path d="M293.927 77.8323V250.74" stroke="black" stroke-width="0.535391"/>
+<path d="M320.407 77.8323V250.74" stroke="black" stroke-width="0.535391"/>
+<path d="M346.884 77.8322V250.74" stroke="black" stroke-width="0.535391"/>
+<path d="M373.363 77.8322V250.74" stroke="black" stroke-width="0.535391"/>
+<path d="M399.955 77.8322V250.74" stroke="black" stroke-width="0.535391"/>
+<path d="M188.199 164.417L426.255 164.417" stroke="black" stroke-width="0.535391"/>
+<path d="M188.199 137.938L426.255 137.938" stroke="black" stroke-width="0.535391"/>
+<path d="M188.199 111.458L426.255 111.458" stroke="black" stroke-width="0.535391"/>
+</mask>
+<g mask="url(#mask1_13_33)">
+<rect x="106.169" y="22.1714" width="399.794" height="249.975" fill="#FFBD01"/>
+</g>
+</g>
+<g clip-path="url(#clip1_13_33)">
+<mask id="mask2_13_33" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="161" y="315" width="266" height="174">
+<path d="M188.028 315.888V488.796" stroke="black" stroke-width="0.535391"/>
+<path d="M214.505 315.888V488.796" stroke="black" stroke-width="0.535391"/>
+<path d="M240.984 315.888V488.796" stroke="black" stroke-width="0.535391"/>
+<path d="M267.465 315.888V488.796" stroke="black" stroke-width="0.535391"/>
+<path d="M293.945 315.888V488.796" stroke="black" stroke-width="0.535391"/>
+<path d="M320.423 315.888V488.796" stroke="black" stroke-width="0.535391"/>
+<path d="M346.902 315.888V488.796" stroke="black" stroke-width="0.535391"/>
+<path d="M373.494 315.888V488.796" stroke="black" stroke-width="0.535391"/>
+<path d="M161.737 455.43H399.793" stroke="black" stroke-width="0.535391"/>
+<path d="M161.737 428.952H399.793" stroke="black" stroke-width="0.535391"/>
+<path d="M161.737 402.472H399.793" stroke="black" stroke-width="0.535391"/>
+<path d="M161.737 375.994H399.793" stroke="black" stroke-width="0.535391"/>
+<path d="M161.737 349.514H399.793" stroke="black" stroke-width="0.535391"/>
+</mask>
+<g mask="url(#mask2_13_33)">
+<rect x="79.7076" y="260.227" width="399.794" height="249.975" fill="url(#paint1_linear_13_33)"/>
+</g>
+</g>
+<g clip-path="url(#clip2_13_33)">
+<mask id="mask3_13_33" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="373" y="429" width="319" height="193">
+<path d="M452.88 429.251V575.804" stroke="black" stroke-width="0.535391"/>
+<path d="M426.548 429.251V575.804" stroke="black" stroke-width="0.535391"/>
+<path d="M400.216 429.251V575.804" stroke="black" stroke-width="0.535391"/>
+<path d="M479.357 429.251V575.804" stroke="black" stroke-width="0.535391"/>
+<path d="M505.836 429.251V575.804" stroke="black" stroke-width="0.535391"/>
+<path d="M532.317 429.251V575.804" stroke="black" stroke-width="0.535391"/>
+<path d="M558.797 429.251V575.804" stroke="black" stroke-width="0.535391"/>
+<path d="M585.274 429.251V575.804" stroke="black" stroke-width="0.535391"/>
+<path d="M611.754 429.251V575.804" stroke="black" stroke-width="0.535391"/>
+<path d="M373.592 535.173H638.067" stroke="black" stroke-width="0.535391"/>
+<path d="M373.592 508.685H638.067" stroke="black" stroke-width="0.535391"/>
+<path d="M373.592 482.198H638.067" stroke="black" stroke-width="0.535391"/>
+<path d="M373.592 455.71H638.067" stroke="black" stroke-width="0.535391"/>
+</mask>
+<g mask="url(#mask3_13_33)">
+<rect x="344.56" y="393.049" width="399.794" height="249.975" fill="url(#paint2_linear_13_33)"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_13_33" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(434.323 311.491) rotate(178.375) scale(443.699 349.3)">
+<stop offset="0.5" stop-color="#FFECBC"/>
+<stop offset="1" stop-color="#FFECBC" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint1_linear_13_33" x1="92.4687" y1="430.461" x2="452.383" y2="289.922" gradientUnits="userSpaceOnUse">
+<stop offset="0.120201" stop-color="#60DB83"/>
+<stop offset="0.6154" stop-color="#FFF266"/>
+</linearGradient>
+<linearGradient id="paint2_linear_13_33" x1="357.321" y1="563.283" x2="717.235" y2="422.744" gradientUnits="userSpaceOnUse">
+<stop offset="0.221157" stop-color="#C370EF"/>
+<stop offset="0.596162" stop-color="#50B6FF"/>
+</linearGradient>
+<clipPath id="clip0_13_33">
+<rect width="238.251" height="96.6674" fill="white" transform="translate(188.013 84.9149)"/>
+</clipPath>
+<clipPath id="clip1_13_33">
+<rect width="239.227" height="158.183" fill="white" transform="translate(161.552 323.947)"/>
+</clipPath>
+<clipPath id="clip2_13_33">
+<rect width="265.817" height="133.378" fill="white" transform="translate(373.009 428.565)"/>
+</clipPath>
+<pattern id="pattern0_13_33" patternUnits="userSpaceOnUse" patternTransform="matrix(26.4878 0 0 26.4878 0.352661 -50)" preserveAspectRatio="none" viewBox="0 0 60 60" width="1" height="1">
+<g id="pattern0_13_33_inner">
+<path d="M5.00269 0V60" stroke="#CCCCCC"/>
+<path d="M0 5.37854H60" stroke="#CCCCCC"/>
+</g>
+</pattern></defs>
+</svg>
