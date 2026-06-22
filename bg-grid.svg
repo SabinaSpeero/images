@@ -1,0 +1,22 @@
+<svg width="887" height="782" viewBox="0 0 887 782" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="886.625" height="781.172" fill="black"/>
+<g opacity="0.5">
+<mask id="mask0_87_349" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="887" height="782">
+<rect width="886.625" height="781.172" fill="url(#pattern0_87_349)"/>
+</mask>
+<g mask="url(#mask0_87_349)">
+<rect x="-18" y="-9" width="877.573" height="778.978" fill="url(#paint0_radial_87_349)"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_87_349" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(414.433 351.843) rotate(178.375) scale(443.699 349.3)">
+<stop offset="0.5" stop-color="#FFECBC"/>
+<stop offset="1" stop-color="#FFECBC" stop-opacity="0"/>
+</radialGradient>
+<pattern id="pattern0_87_349" patternUnits="userSpaceOnUse" patternTransform="matrix(26.4878 0 0 26.4878 0 0)" preserveAspectRatio="none" viewBox="0 0 60 60" width="1" height="1">
+<g id="pattern0_87_349_inner">
+<path d="M5.00269 0V60" stroke="#CCCCCC"/>
+<path d="M0 5.37854H60" stroke="#CCCCCC"/>
+</g>
+</pattern></defs>
+</svg>
